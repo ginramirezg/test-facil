@@ -1,11 +1,13 @@
+
+
 import "./App.css"
 
-const Coches = () => {
+const App = () => {
   return(
     <div>
-      <h1>Coches disponibles</h1>
+      <h1>Super contador </h1>
     </div>
   )
 }
 
-export default Coches;
+export default App;
